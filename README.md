@@ -1,11 +1,14 @@
 CORS should be Abandoned, Adobe’s Approach should be Adopted
+
 20171013
+
 Change history:
 draft #1 20171012 http://lists.w3.org/Archives/Public/public-webapps/2017OctDec/0035.html
 20171013 this version with some typo corrected, and some minor editing, a better presentation is http://blog.sina.com.cn/s/blog_93b70ae70102wxe8.html 
 
 
 Tags: CORS should be abandoned, CORS is a stupid design. 
+
 
 
 The Original Purpose of CORS(Cross Origin Resources Sharing)
